@@ -18,4 +18,5 @@ while(distance > 5)
     distance = distance - time * (firstSpeed + secondSpeed);
     count ++;
 }
+
 Console.WriteLine(count);
